@@ -1,0 +1,23 @@
+Introducción
+
+Python permite la programación orientada a objetos, que es un paradigma de programación en la que los datos y las operaciones que pueden realizarse
+con esos datos se agrupan en unidades lógicas llamadas objetos.
+
+Los objetos suelen representar conceptos del dominio del programa, como un estudiante, un coche, un teléfono, etc. Los datos que describen las características
+del objeto se llaman atributos y son la parte estática del objeto, mientras que las operaciones que puede realizar el objeto se llaman métodos y son la parte dinámica del objeto.
+
+La programación orientada a objetos permite simplificar la estructura y la lógica de los grandes programas en los que intervienen muchos objetos que interactúan entre sí.
+
+Contenidos
+
+1. ¿Qué es la POO en Python?
+
+2. Objetos, Clases e instancias/objetos
+
+3. Constructores y destructores
+
+4. ¿Qué es UML y cómo se utiliza para la POO?
+
+5. Herencia, Encapsulación y Polimorfismo
+
+6. Poner en práctica: Construir un programa de POO con Python

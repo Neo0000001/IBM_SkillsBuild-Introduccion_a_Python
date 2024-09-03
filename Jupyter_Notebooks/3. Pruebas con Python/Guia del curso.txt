@@ -1,0 +1,27 @@
+Introducción
+
+En este curso el alumno asimilará los conceptos necesarios para crear y ejecutar un marco de pruebas unitarias en Python usando Unittest.
+
+Aprenderemos cuáles son los diferentes tipos de pruebas que se realizan a lo largo del proceso de creación de software, sus ventajas y casos de uso.
+
+Estudiaremos los marcos de pruebas más usados en la actualidad, sus diferencias y aplicaciones.
+
+Conoceremos las librerías de testing que aporta Python de forma nativa y aquellas de terceros que se usan mayoritariamente.
+
+Profundizaremos en el marco de pruebas Unittest como marco de referencia en el proceso de testing de software Python con ejemplos de uso.
+
+Una vez terminado el curso, el alumno tendrá una visión completa de la importancia de los procesos de testing en el desarrollo de software, de cómo funcionan, para qué casos se usa cada marco de pruebas y sabrá hacer pruebas unitarias de scripts en Unittest, el marco de pruebas por excelencia de Python.
+
+Contenidos
+
+1. ¿Qué es una prueba? ¿Por qué es tan importante?
+
+2. Pruebas unitarias y de integración
+
+3. Bibliotecas para testing: unittest
+
+4. Uso básico de unittest
+
+5. ¿Qué es assert? Tipos de aserciones
+
+6. Probar un programa en Python con unittest
